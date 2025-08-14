@@ -1,0 +1,29 @@
+from;to;forward;backward
+Bernau;Friedenstal;2;2
+Friedenstal;Zepernick;3;4
+Zepernick;Roentgental;3;2
+Roentgental;Buch;2;3
+Buch;Karow;4;3
+Karow;Karower Kreuz hoch;3;
+Karower Kreuz hoch;Blankenburg;;4
+Blankenburg;Pankow Heinersdorf;3;3
+Pankow Heinersdorf;Pankow;2;3
+Pankow;Bornholmer Str;2;2
+Bornholmer Str;Gesundbrunnen;2;2
+Gesundbrunnen;Humbolthain;2;2
+Humbolthain;Nordbahnhof;3;2
+Nordbahnhof;Oranienburger Str;2;2
+Oranienburger Str;Friedrich Str;2;3
+Friedrich Str;Brandenburger Tor;2;1
+Brandenburger Tor;Potsdammer Platz;2;2
+Potsdammer Platz;Anhalter Bahnhof;2;2
+Anhalter Bahnhof;Yorck Str;3;3
+Yorck Str;Suedkreuz;2;3
+Suedkreuz;Priesterweg;4;2
+Priesterweg;Attila Str;2;3
+Attila Str;Marienfelde;4;3
+Marienfelde;Buckower Chaussee;2;3
+Buckower Chaussee;Schichauweg;2;2
+Schichauweg;Lichtenrade;2;5
+Lichtenrade;Mahlow;5;4
+Mahlow;Blankenfelde;3;3

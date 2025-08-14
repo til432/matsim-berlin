@@ -1,0 +1,15 @@
+from;to;forward;backward
+Muehlenbeck Moenchmuehle;Schoenerlinder Str;2;2
+Schoenerlinder Str;Bucher Str;2;2
+Bucher Str;Karower Kreuz tief;2;2
+Karower Kreuz tief;Selheimbruecke;2;2
+Selheimbruecke;Malchow Nord;2;2
+Malchow Nord;Wartenberg;2;2
+Wartenberg;Hohenschoenhausen;2;3
+Hohenschoenhausen;Gehrenseestr;2;3
+Gehrenseestr;Springpfuhl;3;3
+Springpfuhl;Friedrichsfelde Ost;3;2
+Friedrichsfelde Ost;Lichtenberg;3;3
+Lichtenberg;Noeldnerplatz;2;2
+Noeldnerplatz;Ostkreuz;2;3
+Ostkreuz;Warschauer Str;3;1

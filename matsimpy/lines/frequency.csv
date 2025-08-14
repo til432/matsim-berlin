@@ -1,0 +1,29 @@
+line;from;to;start_hour;end_hour;freq_min
+s2;Bernau;Blankenfelde;0;1;20
+s2;Bernau;Blankenfelde;4;25;20
+s2;Buch;Lichtenrade;5;21;10
+s2_r;Blankenfelde;Bernau;0;1;20
+s2_r;Blankenfelde;Bernau;4;25;20
+s2_r;Lichtenrade;Buch;5;21;10
+s8;Gruenau;Birkenwerder;4;5;20
+s8;Gruenau;Birkenwerder;9;14;20
+s8;Wildau;Birkenwerder;5;9;20
+s8;Wildau;Birkenwerder;14;19;20
+s8;Gruenau;Blankenburg;0;1;20
+s8;Gruenau;Blankenburg;22;1;20
+s8;Gruenau;Birkenwerder;22;24;60
+s8_r;Birkenwerder;Gruenau;4;5;20
+s8_r;Birkenwerder;Gruenau;9;14;20
+s8_r;Birkenwerder;Wildau;5;9;20
+s8_r;Birkenwerder;Wildau;14;19;20
+s8_r;Blankenburg;Gruenau;0;1;20
+s8_r;Blankenburg;Gruenau;22;1;20
+s8_r;Birkenwerder;Gruenau;22;24;60
+S75;Muehlenbeck Moenchmuehle;Warschauer Str;0;1;20
+S75;Muehlenbeck Moenchmuehle;Warschauer Str;4;5;20
+S75;Muehlenbeck Moenchmuehle;Warschauer Str;5;21;10
+S75;Muehlenbeck Moenchmuehle;Warschauer Str;21;25;20
+S75_r;Warschauer Str;Muehlenbeck Moenchmuehle;0;1;20
+S75_r;Warschauer Str;Muehlenbeck Moenchmuehle;4;5;20
+S75_r;Warschauer Str;Muehlenbeck Moenchmuehle;5;21;10
+S75_r;Warschauer Str;Muehlenbeck Moenchmuehle;21;25;20
