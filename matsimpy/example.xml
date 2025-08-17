@@ -1,0 +1,41 @@
+<transitLine id="S2---13308" name="S2">
+		<attributes>
+			<attribute name="gtfs_agency_id" class="java.lang.String">401</attribute>
+			<attribute name="gtfs_route_short_name" class="java.lang.String">S2</attribute>
+			<attribute name="gtfs_route_type" class="java.lang.String">109</attribute>
+		</attributes>
+
+		<transitRoute id="S2---13308_0">
+			<attributes>
+				<attribute name="simple_route_type" class="java.lang.String">Suburban Railway</attribute>
+			</attributes>
+
+			<transportMode>Suburban Railway</transportMode>
+			<routeProfile>
+				<stop refId="hw_1_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+				<stop refId="415349_SuburbanRailway" arrivalOffset="00:01:36" departureOffset="00:02:06" awaitDeparture="true"/>
+				<stop refId="38354_SuburbanRailway" arrivalOffset="00:03:42" departureOffset="00:04:12" awaitDeparture="true"/>
+				<stop refId="299684_SuburbanRailway" arrivalOffset="00:05:24" departureOffset="00:06:12" awaitDeparture="true"/>
+				<stop refId="578646_SuburbanRailway" arrivalOffset="00:07:30" departureOffset="00:08:00" awaitDeparture="true"/>
+				<stop refId="657409_SuburbanRailway" arrivalOffset="00:09:30" departureOffset="00:09:30" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_308361_SuburbanRailway"/>
+				<link refId="pt_308361_SuburbanRailway-pt_415349_SuburbanRailway"/>
+				<link refId="pt_415349_SuburbanRailway"/>
+				<link refId="pt_415349_SuburbanRailway-pt_38354_SuburbanRailway"/>
+				<link refId="pt_38354_SuburbanRailway"/>
+				<link refId="pt_38354_SuburbanRailway-pt_299684_SuburbanRailway"/>
+				<link refId="pt_299684_SuburbanRailway"/>
+				<link refId="pt_299684_SuburbanRailway-pt_578646_SuburbanRailway"/>
+				<link refId="pt_578646_SuburbanRailway"/>
+				<link refId="pt_578646_SuburbanRailway-pt_657409_SuburbanRailway"/>
+				<link refId="pt_657409_SuburbanRailway"/>
+			</route>
+			<departures>
+				<departure id="1000611_0" departureTime="05:02:12" vehicleRefId="pt_S2---13308_0_0"/>
+				<departure id="1539897_0" departureTime="04:42:12" vehicleRefId="pt_S2---13308_0_1"/>
+				<departure id="copied+24h_1000611_0" departureTime="29:02:12" vehicleRefId="pt_S2---13308_0_2"/>
+				<departure id="copied+24h_1539897_0" departureTime="28:42:12" vehicleRefId="pt_S2---13308_0_3"/>
+			</departures>
+		</transitRoute>
