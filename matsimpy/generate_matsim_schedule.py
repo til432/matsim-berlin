@@ -12,6 +12,14 @@ def minutes_to_hhmmss(total_minutes):
     return f"{hours:02d}:{minutes:02d}:{seconds:02d}"
 
 
+def create_vehicle_list(vehicle_list):
+    vehicle_output = "<vehicleDefinitions>"
+    for vehicle in vehicle_list:
+        vehicle_output += f'<vehicle id="{vehicle}" type="S-Bahn_veh_type"/>'
+    vehicle_output += "</vehicleDefinitions>"
+    return vehicle_output
+
+
 def convert2xml(line):
     logging.info(f"Loading files for Line {line}")
     if line.endswith("_r"):
@@ -48,6 +56,7 @@ def convert2xml(line):
     stations = stations.merge(stations_links, on="name")
 
     n = 0
+    vehicle_list = []
     for index_freq, row_freq in filtered_freq.iterrows():
         start = row_freq['start_hour']
         start_min = row_freq['start_min']
@@ -108,7 +117,10 @@ def convert2xml(line):
         logging.info(f"Generating departures for transit route id=hw_{line}---1_{n}")
         departure_list = []
         while now_hour < end:
-            departures = departures + f'<departure id="{"hw_" + str(departure_count)}" departureTime="{now_hour:02}:{now_minute:02}:00" vehicleRefId="{"pt_S2 - --13308_0_0"}"/>'
+            departures = departures + (f'<departure id="{"hw_" + f"{line}---1_{n}_" + str(departure_count)}" '
+                                       f'departureTime="{now_hour:02}:{now_minute:02}:00" '
+                                       f'vehicleRefId="{"hw_veh_" + f"{line}---1_{n}_" + str(departure_count)}"/>')
+            vehicle_list.append("hw_veh_" + f"{line}---1_{n}_" + str(departure_count))
             departure_list.append(f"{now_hour:02}:{now_minute:02}:00")
             now_minute = now_minute + freq_min
             # Time update
@@ -124,19 +136,31 @@ def convert2xml(line):
 
     output = output + '</transitLine>'
     # print(output)
-    return output
+    return output, vehicle_list
 
 
 if __name__ == '__main__':
     lines = ["s2", "s2_r", "s8", "s8_r", "s75", "s75_r"]
     output_all_lines = ""
+    all_vehicles = []
     for l in lines:
-        output_all_lines = output_all_lines + convert2xml(l)
+        add_output, vehicles = convert2xml(l)
+        output_all_lines = output_all_lines + add_output
+        all_vehicles.extend(vehicles)
     output_all_lines = '<transitSchedule>' + output_all_lines + '</transitSchedule>'
-    logging.info("Creating XML-File")
+    logging.info("Creating replacement schedule xml-File")
     dom = xml.dom.minidom.parseString(output_all_lines)
     pretty_xml = dom.toprettyxml(indent="    ")  # 4 spaces per level
 
     # Save to file
     with open("replace_schedule.xml", "w", encoding="utf-8") as f:
         f.write(pretty_xml)
+
+    logging.info("Creating replacement vehicles xml-File")
+    dom = xml.dom.minidom.parseString(create_vehicle_list(all_vehicles))
+    pretty_xml = dom.toprettyxml(indent="    ")  # 4 spaces per level
+
+    # Save to file
+    with open("replace_vehicles.xml", "w", encoding="utf-8") as f:
+        f.write(pretty_xml)
+
