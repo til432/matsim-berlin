@@ -4,13 +4,13 @@ all_stations = []
 
 lines = ["s2", "s8", "s75"]
 for line in lines:
-    times = pd.read_csv(f"lines/{line}_times.csv", sep=";", encoding="cp1252", header=0)
+    times = pd.read_csv(f"pt/lines/{line}_times.csv", sep=";", encoding="cp1252", header=0)
     all_stations = all_stations + list(times["from"].values)
     all_stations = all_stations + list(times["to"].values)
 
 
 for line in lines:
-    stations = pd.read_csv(f"lines/{line}_line.csv", sep=";", encoding="cp1252", header=None)
+    stations = pd.read_csv(f"pt/lines/{line}_line.csv", sep=";", encoding="cp1252", header=None)
     all_stations = all_stations + list(stations[0].values)
 
 freq = pd.read_csv("lines/frequency.csv", sep=";", encoding="cp1252", header=0)

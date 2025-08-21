@@ -1,0 +1,69 @@
+<!DOCTYPE network SYSTEM "http://www.matsim.org/files/dtd/network_v2.dtd">
+<network>
+<attributes>
+		<attribute name="coordinateReferenceSystem" class="java.lang.String">EPSG:25832</attribute>
+</attributes>
+
+<nodes>
+<node id="pt_hw1_SuburbanRailway" x="803807.32" y="5835786.65" >
+</node>
+<node id="pt_hw2_SuburbanRailway" x="802636.10" y="5837116.29" >
+</node>
+<node id="pt_hw3_SuburbanRailway" x="801948.34" y="5837865.80" >
+</node>
+<node id="pt_hw4_SuburbanRailway" x="800954.63" y="5838921.14" >
+</node>
+<node id="pt_hw5_SuburbanRailway" x="799972.82" y="5839977.38" >
+</node>
+</nodes>
+
+<links>
+<!--(Anschluss an Bestand in Wartenberg)-->
+<link id="pt_290607_SuburbanRailway-pt_hw1_SuburbanRailway" from="pt_290607_SuburbanRailway" to="pt_hw1_SuburbanRailway" length="1987.7" freespeed="11.654636630762223" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<!--(Anschluss Karower Kreuz aus Richtung Blankenburg, link zwischen Blankenburg und Karow wird geteilt)-->
+<link id="pt_93748_SuburbanRailway-pt_hw3_SuburbanRailway" from="pt_93748_SuburbanRailway" to="pt_hw3_SuburbanRailway" length="2049.51" freespeed="16.208851643484362" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<!--(Der link von Blankenburg nach Mühlenbeck-Mönchmühle kann gelöscht werden, da S-bahn neuen Node Karower Kreuz anfährt)-->
+<!--(Anschluss Karower Kreuz aus Richtung Karow, link zwischen Blankenburg und Karow wird geteilt)-->
+<link id="pt_122270_SuburbanRailway-pt_hw3_SuburbanRailway" from="pt_122270_SuburbanRailway" to="pt_hw3_SuburbanRailway" length="1142.65" freespeed="17.260236614953616" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<!--(Anschluss an Bestand in Mühlenbeck-Mönchmühle, habe hier den Node geändert und den Node von Blankenburg durch hw5 ersetzt) -->
+<link id="pt_138486_SuburbanRailway-pt_hw5_SuburbanRailway" from="pt_138486_SuburbanRailway" to="pt_hw5_SuburbanRailway" length="4445.44" freespeed="17.257096021778555" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw1_SuburbanRailway" from="pt_hw1_SuburbanRailway" to="pt_hw1_SuburbanRailway" length="1.0" freespeed="17" capacity="100000.0" permlanes="100000.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw1_SuburbanRailway-pt_290607_SuburbanRailway" from="pt_hw1_SuburbanRailway" to="pt_290607_SuburbanRailway" length="1987.7" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw1_SuburbanRailway-pt_hw2_SuburbanRailway" from="pt_hw1_SuburbanRailway" to="pt_hw2_SuburbanRailway" length="1771.92" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw2_SuburbanRailway" from="pt_hw2_SuburbanRailway" to="pt_hw2_SuburbanRailway" length="1.0" freespeed="17" capacity="100000.0" permlanes="100000.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw2_SuburbanRailway-pt_hw1_SuburbanRailway" from="pt_hw2_SuburbanRailway" to="pt_hw1_SuburbanRailway" length="1771.92" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw2_SuburbanRailway-pt_hw3_SuburbanRailway" from="pt_hw2_SuburbanRailway" to="pt_hw3_SuburbanRailway" length="1017.24" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw3_SuburbanRailway" from="pt_hw3_SuburbanRailway" to="pt_hw3_SuburbanRailway" length="1.0" freespeed="17" capacity="100000.0" permlanes="100000.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw3_SuburbanRailway-pt_hw2_SuburbanRailway" from="pt_hw3_SuburbanRailway" to="pt_hw2_SuburbanRailway" length="1017.24" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw3_SuburbanRailway-pt_hw4_SuburbanRailway" from="pt_hw3_SuburbanRailway" to="pt_hw4_SuburbanRailway" length="1449.56" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw3_SuburbanRailway-pt_93748_SuburbanRailway" from="pt_hw3_SuburbanRailway" to="pt_93748_SuburbanRailway" length="2049.51" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw3_SuburbanRailway-pt_122270_SuburbanRailway" from="pt_hw3_SuburbanRailway" to="pt_122270_SuburbanRailway" length="1142.65" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw4_SuburbanRailway" from="pt_hw4_SuburbanRailway" to="pt_hw4_SuburbanRailway" length="1.0" freespeed="17" capacity="100000.0" permlanes="100000.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw4_SuburbanRailway-pt_hw3_SuburbanRailway" from="pt_hw4_SuburbanRailway" to="pt_hw3_SuburbanRailway" length="1449.56" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw4_SuburbanRailway-pt_hw5_SuburbanRailway" from="pt_hw4_SuburbanRailway" to="pt_hw5_SuburbanRailway" length="1442.08" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw5_SuburbanRailway" from="pt_hw5_SuburbanRailway" to="pt_hw5_SuburbanRailway" length="1.0" freespeed="17" capacity="100000.0" permlanes="100000.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw5_SuburbanRailway-pt_hw4_SuburbanRailway" from="pt_hw5_SuburbanRailway" to="pt_hw4_SuburbanRailway" length="1442.08" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+<link id="pt_hw5_SuburbanRailway-pt_138486_SuburbanRailway" from="pt_hw5_SuburbanRailway" to="pt_138486_SuburbanRailway" length="4445.44" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" >
+</link>
+</links>
+</network>

@@ -6,7 +6,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Load the base XML
 logging.info("loading base file: transitSchedule.xml.gz")
-with gzip.open("../input/_pt/berlin-v6.4-transitSchedule.xml.gz", "rt", encoding="utf-8") as f:
+with gzip.open("../../input/_pt/berlin-v6.4-transitSchedule.xml.gz", "rt", encoding="utf-8") as f:
     tree_base = ET.parse(f)
 root_base = tree_base.getroot()
 
@@ -30,6 +30,6 @@ for line in root_extra.findall("transitLine"):
 
 # Save merged XML
 logging.info("saving scenario file: transitSchedule.xml.gz")
-with gzip.open("../input/_pt/scenario_berlin-v6.4-transitSchedule.xml.gz", "wb") as f:
+with gzip.open("../../input/_pt/scenario_berlin-v6.4-transitSchedule.xml.gz", "wb") as f:
     tree_base.write(f, encoding="utf-8", xml_declaration=True)
 
