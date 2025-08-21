@@ -9,14 +9,18 @@ def load_gzip_xml(filename):
 
 
 def save_gzip_xml(tree, filename, doctype=None):
-    # Convert tree to string
-    xml_str = ET.tostring(tree.getroot(), encoding="utf-8", xml_declaration=True)
+    # Convert tree to string (without XML declaration first)
+    xml_bytes = ET.tostring(tree.getroot(), encoding="utf-8")
 
+    # Build final XML string with XML declaration + optional DOCTYPE
+    xml_header = b"<?xml version='1.0' encoding='utf-8'?>\n"
     if doctype:
-        xml_str = doctype.encode("utf-8") + xml_str
+        xml_bytes = xml_header + doctype.encode("utf-8") + xml_bytes
+    else:
+        xml_bytes = xml_header + xml_bytes
 
     with gzip.open(filename, "wb") as f:
-        f.write(xml_str)
+        f.write(xml_bytes)
 
 
 # Load compressed XML files
