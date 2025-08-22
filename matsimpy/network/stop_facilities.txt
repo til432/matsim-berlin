@@ -1,0 +1,27 @@
+<transitStops>
+<stopFacility id="hw1_SuburbanRailway" x="803807.32" y="5835786.65" linkRefId="pt_hw1_SuburbanRailway" name="Malchow Nord" stopAreaId="hw1" isBlocking="false">
+			<attributes>
+				<attribute name="stopFilter" class="java.lang.String">station_S/U/RE/RB</attribute>
+			</attributes>
+</stopFacility>
+<stopFacility id="hw2_SuburbanRailway" x="802636.10" y="5837116.29" linkRefId="pt_hw2_SuburbanRailway" name="Sellheimbrücke" stopAreaId="hw2" isBlocking="false">
+			<attributes>
+				<attribute name="stopFilter" class="java.lang.String">station_S/U/RE/RB</attribute>
+			</attributes>
+</stopFacility>
+<stopFacility id="hw3_SuburbanRailway" x="801948.34" y="5837865.80" linkRefId="pt_hw3_SuburbanRailway" name="Karower Kreuz" stopAreaId="hw3" isBlocking="false">
+			<attributes>
+				<attribute name="stopFilter" class="java.lang.String">station_S/U/RE/RB</attribute>
+			</attributes>
+</stopFacility>
+<stopFacility id="hw4_SuburbanRailway" x="800954.63" y="5838921.14" linkRefId="pt_hw4_SuburbanRailway" name="Bucher Straße" stopAreaId="hw4" isBlocking="false">
+			<attributes>
+				<attribute name="stopFilter" class="java.lang.String">station_S/U/RE/RB</attribute>
+			</attributes>
+</stopFacility>
+<stopFacility id="hw5_SuburbanRailway" x="799972.82" y="5839977.38" linkRefId="pt_hw5_SuburbanRailway" name="Schönerlinder Straße" stopAreaId="hw5" isBlocking="false">
+			<attributes>
+				<attribute name="stopFilter" class="java.lang.String">station_S/U/RE/RB</attribute>
+			</attributes>
+</stopFacility>
+</transitStops>
