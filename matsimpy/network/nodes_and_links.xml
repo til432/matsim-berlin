@@ -32,5 +32,7 @@
         <link id="pt_hw5_SuburbanRailway" from="pt_hw5_SuburbanRailway" to="pt_hw5_SuburbanRailway" length="1.0" freespeed="17" capacity="100000.0" permlanes="100000.0" oneway="1" modes="pt" />
         <link id="pt_hw5_SuburbanRailway-pt_hw4_SuburbanRailway" from="pt_hw5_SuburbanRailway" to="pt_hw4_SuburbanRailway" length="1442.08" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" />
         <link id="pt_hw5_SuburbanRailway-pt_138486_SuburbanRailway" from="pt_hw5_SuburbanRailway" to="pt_138486_SuburbanRailway" length="4445.44" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" />
+        <link id="pt_hw4_SuburbanRailway-pt_93748_SuburbanRailway" from="pt_hw4_SuburbanRailway" to="pt_93748_SuburbanRailway" length="2828.42" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" />
+        <link id="pt_93748_SuburbanRailway-pt_hw4_SuburbanRailway" from="pt_93748_SuburbanRailway" to="pt_hw4_SuburbanRailway" length="2828.42" freespeed="17" capacity="100000.0" permlanes="1.0" oneway="1" modes="pt" />
     </links>
 </network>
