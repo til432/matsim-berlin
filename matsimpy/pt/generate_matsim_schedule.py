@@ -37,7 +37,7 @@ def convert2xml(line):
     times = pd.read_csv(f"lines/{line.removesuffix('_r')}_times.csv", sep=";", encoding="cp1252")
 
     # Start and attributes
-    output = f'<transitLine id="hw_{line}---1" name="S2">'
+    output = f'<transitLine id="hw_{line}---1" name="{line}">'
     output = output + '<attributes>'
     output = output + '<attribute name="gtfs_agency_id" class="java.lang.String">401</attribute>'
     output = output + '<attribute name="gtfs_route_short_name" class="java.lang.String">S2</attribute>'
@@ -87,14 +87,14 @@ def convert2xml(line):
         for index, row in forwards_stations.iterrows():
             if row['name'] == from_station:
                 mask = True
-                output = output + (f'<stop refId="{row["forward_stations"]}" arrivalOffset="00:00:00" '
+                output = output + (f'<stop refId="{row["forward_stations"].removeprefix("pt_")}" arrivalOffset="00:00:00" '
                                    f'departureOffset="00:00:00" awaitDeparture="true"/>')
                 route = route + f'<link refId="{row["forward_stations"]}"/><link refId="{row["forward_stations"]}-'
                 continue
 
             masks.append(mask)
             if mask:
-                output = output + (f'<stop refId="{row["forward_stations"]}" '
+                output = output + (f'<stop refId="{row["forward_stations"].removeprefix("pt_")}" '
                                    f'arrivalOffset="{minutes_to_hhmmss(now + row["forward_times"])}" '
                                    f'departureOffset="{minutes_to_hhmmss(now + row["forward_times"])}" '
                                    f'awaitDeparture="true"/>')
