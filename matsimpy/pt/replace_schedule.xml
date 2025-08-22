@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <transitSchedule>
-    <transitLine id="hw_s2---1" name="S2">
+    <transitLine id="hw_s2---1" name="s2">
         <attributes>
             <attribute name="gtfs_agency_id" class="java.lang.String">401</attribute>
             <attribute name="gtfs_route_short_name" class="java.lang.String">S2</attribute>
@@ -12,39 +12,39 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_418946_Suburban_Railway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_535020_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
-                <stop refId="pt_23995_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
-                <stop refId="pt_73276_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_438753_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_122270_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_64560_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_494021_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_657409_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_578646_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_299684_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
-                <stop refId="pt_38354_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
-                <stop refId="pt_415349_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_308361_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_251016_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_176775_rail" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
-                <stop refId="pt_222332_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
-                <stop refId="pt_245980_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
-                <stop refId="pt_312961_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
-                <stop refId="pt_582567_SuburbanRailway" arrivalOffset="00:58:00" departureOffset="00:58:00" awaitDeparture="true"/>
-                <stop refId="pt_644137_SuburbanRailway" arrivalOffset="01:00:00" departureOffset="01:00:00" awaitDeparture="true"/>
-                <stop refId="pt_630916_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
-                <stop refId="pt_52187_SuburbanRailway" arrivalOffset="01:07:00" departureOffset="01:07:00" awaitDeparture="true"/>
-                <stop refId="pt_530941_SuburbanRailway_rail" arrivalOffset="01:10:00" departureOffset="01:10:00" awaitDeparture="true"/>
+                <stop refId="418946_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="535020_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
+                <stop refId="23995_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
+                <stop refId="73276_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="438753_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="122270_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="64560_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="494021_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="657409_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="578646_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="299684_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
+                <stop refId="38354_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
+                <stop refId="415349_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="308361_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="251016_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="176775_SuburbanRailway" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
+                <stop refId="222332_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
+                <stop refId="245980_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="312961_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
+                <stop refId="582567_SuburbanRailway" arrivalOffset="00:58:00" departureOffset="00:58:00" awaitDeparture="true"/>
+                <stop refId="644137_SuburbanRailway" arrivalOffset="01:00:00" departureOffset="01:00:00" awaitDeparture="true"/>
+                <stop refId="630916_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
+                <stop refId="52187_SuburbanRailway" arrivalOffset="01:07:00" departureOffset="01:07:00" awaitDeparture="true"/>
+                <stop refId="530941_SuburbanRailway_rail" arrivalOffset="01:10:00" departureOffset="01:10:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
-                <link refId="pt_418946_Suburban_Railway"/>
-                <link refId="pt_418946_Suburban_Railway-pt_535020_SuburbanRailway"/>
+                <link refId="pt_418946_SuburbanRailway"/>
+                <link refId="pt_418946_SuburbanRailway-pt_535020_SuburbanRailway"/>
                 <link refId="pt_535020_SuburbanRailway"/>
                 <link refId="pt_535020_SuburbanRailway-pt_23995_SuburbanRailway"/>
                 <link refId="pt_23995_SuburbanRailway"/>
@@ -82,9 +82,9 @@
                 <link refId="pt_308361_SuburbanRailway"/>
                 <link refId="pt_308361_SuburbanRailway-pt_251016_SuburbanRailway"/>
                 <link refId="pt_251016_SuburbanRailway"/>
-                <link refId="pt_251016_SuburbanRailway-pt_176775_rail"/>
-                <link refId="pt_176775_rail"/>
-                <link refId="pt_176775_rail-pt_222332_SuburbanRailway"/>
+                <link refId="pt_251016_SuburbanRailway-pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway-pt_222332_SuburbanRailway"/>
                 <link refId="pt_222332_SuburbanRailway"/>
                 <link refId="pt_222332_SuburbanRailway-pt_245980_SuburbanRailway"/>
                 <link refId="pt_245980_SuburbanRailway"/>
@@ -113,39 +113,39 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_418946_Suburban_Railway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_535020_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
-                <stop refId="pt_23995_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
-                <stop refId="pt_73276_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_438753_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_122270_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_64560_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_494021_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_657409_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_578646_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_299684_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
-                <stop refId="pt_38354_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
-                <stop refId="pt_415349_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_308361_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_251016_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_176775_rail" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
-                <stop refId="pt_222332_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
-                <stop refId="pt_245980_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
-                <stop refId="pt_312961_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
-                <stop refId="pt_582567_SuburbanRailway" arrivalOffset="00:58:00" departureOffset="00:58:00" awaitDeparture="true"/>
-                <stop refId="pt_644137_SuburbanRailway" arrivalOffset="01:00:00" departureOffset="01:00:00" awaitDeparture="true"/>
-                <stop refId="pt_630916_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
-                <stop refId="pt_52187_SuburbanRailway" arrivalOffset="01:07:00" departureOffset="01:07:00" awaitDeparture="true"/>
-                <stop refId="pt_530941_SuburbanRailway_rail" arrivalOffset="01:10:00" departureOffset="01:10:00" awaitDeparture="true"/>
+                <stop refId="418946_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="535020_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
+                <stop refId="23995_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
+                <stop refId="73276_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="438753_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="122270_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="64560_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="494021_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="657409_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="578646_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="299684_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
+                <stop refId="38354_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
+                <stop refId="415349_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="308361_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="251016_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="176775_SuburbanRailway" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
+                <stop refId="222332_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
+                <stop refId="245980_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="312961_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
+                <stop refId="582567_SuburbanRailway" arrivalOffset="00:58:00" departureOffset="00:58:00" awaitDeparture="true"/>
+                <stop refId="644137_SuburbanRailway" arrivalOffset="01:00:00" departureOffset="01:00:00" awaitDeparture="true"/>
+                <stop refId="630916_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
+                <stop refId="52187_SuburbanRailway" arrivalOffset="01:07:00" departureOffset="01:07:00" awaitDeparture="true"/>
+                <stop refId="530941_SuburbanRailway_rail" arrivalOffset="01:10:00" departureOffset="01:10:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
-                <link refId="pt_418946_Suburban_Railway"/>
-                <link refId="pt_418946_Suburban_Railway-pt_535020_SuburbanRailway"/>
+                <link refId="pt_418946_SuburbanRailway"/>
+                <link refId="pt_418946_SuburbanRailway-pt_535020_SuburbanRailway"/>
                 <link refId="pt_535020_SuburbanRailway"/>
                 <link refId="pt_535020_SuburbanRailway-pt_23995_SuburbanRailway"/>
                 <link refId="pt_23995_SuburbanRailway"/>
@@ -183,9 +183,9 @@
                 <link refId="pt_308361_SuburbanRailway"/>
                 <link refId="pt_308361_SuburbanRailway-pt_251016_SuburbanRailway"/>
                 <link refId="pt_251016_SuburbanRailway"/>
-                <link refId="pt_251016_SuburbanRailway-pt_176775_rail"/>
-                <link refId="pt_176775_rail"/>
-                <link refId="pt_176775_rail-pt_222332_SuburbanRailway"/>
+                <link refId="pt_251016_SuburbanRailway-pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway-pt_222332_SuburbanRailway"/>
                 <link refId="pt_222332_SuburbanRailway"/>
                 <link refId="pt_222332_SuburbanRailway-pt_245980_SuburbanRailway"/>
                 <link refId="pt_245980_SuburbanRailway"/>
@@ -272,29 +272,29 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_438753_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_122270_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_64560_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_494021_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
-                <stop refId="pt_657409_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
-                <stop refId="pt_578646_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
-                <stop refId="pt_299684_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
-                <stop refId="pt_38354_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
-                <stop refId="pt_415349_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_308361_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_251016_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
-                <stop refId="pt_176775_rail" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_222332_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
-                <stop refId="pt_245980_SuburbanRailway" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true"/>
-                <stop refId="pt_312961_SuburbanRailway" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
-                <stop refId="pt_582567_SuburbanRailway" arrivalOffset="00:48:00" departureOffset="00:48:00" awaitDeparture="true"/>
-                <stop refId="pt_644137_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
-                <stop refId="pt_630916_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="438753_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="122270_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="64560_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="494021_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
+                <stop refId="657409_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
+                <stop refId="578646_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
+                <stop refId="299684_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
+                <stop refId="38354_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
+                <stop refId="415349_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="308361_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="251016_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
+                <stop refId="176775_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="222332_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
+                <stop refId="245980_SuburbanRailway" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true"/>
+                <stop refId="312961_SuburbanRailway" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
+                <stop refId="582567_SuburbanRailway" arrivalOffset="00:48:00" departureOffset="00:48:00" awaitDeparture="true"/>
+                <stop refId="644137_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
+                <stop refId="630916_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_438753_SuburbanRailway"/>
@@ -328,9 +328,9 @@
                 <link refId="pt_308361_SuburbanRailway"/>
                 <link refId="pt_308361_SuburbanRailway-pt_251016_SuburbanRailway"/>
                 <link refId="pt_251016_SuburbanRailway"/>
-                <link refId="pt_251016_SuburbanRailway-pt_176775_rail"/>
-                <link refId="pt_176775_rail"/>
-                <link refId="pt_176775_rail-pt_222332_SuburbanRailway"/>
+                <link refId="pt_251016_SuburbanRailway-pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway-pt_222332_SuburbanRailway"/>
                 <link refId="pt_222332_SuburbanRailway"/>
                 <link refId="pt_222332_SuburbanRailway-pt_245980_SuburbanRailway"/>
                 <link refId="pt_245980_SuburbanRailway"/>
@@ -395,7 +395,7 @@
             </departures>
         </transitRoute>
     </transitLine>
-    <transitLine id="hw_s2_r---1" name="S2">
+    <transitLine id="hw_s2_r---1" name="s2_r">
         <attributes>
             <attribute name="gtfs_agency_id" class="java.lang.String">401</attribute>
             <attribute name="gtfs_route_short_name" class="java.lang.String">S2</attribute>
@@ -407,35 +407,35 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_530941_SuburbanRailway_rail" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_52187_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_630916_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
-                <stop refId="pt_644137_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_582567_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_312961_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_245980_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_222332_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
-                <stop refId="pt_176775_rail" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
-                <stop refId="pt_251016_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_308361_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_415349_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_38354_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
-                <stop refId="pt_299684_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_578646_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_657409_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_494021_SuburbanRailway" arrivalOffset="00:43:00" departureOffset="00:43:00" awaitDeparture="true"/>
-                <stop refId="pt_64560_SuburbanRailway" arrivalOffset="00:45:00" departureOffset="00:45:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
-                <stop refId="pt_122270_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
-                <stop refId="pt_438753_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
-                <stop refId="pt_73276_SuburbanRailway" arrivalOffset="01:05:00" departureOffset="01:05:00" awaitDeparture="true"/>
-                <stop refId="pt_23995_SuburbanRailway" arrivalOffset="01:07:00" departureOffset="01:07:00" awaitDeparture="true"/>
-                <stop refId="pt_535020_SuburbanRailway" arrivalOffset="01:11:00" departureOffset="01:11:00" awaitDeparture="true"/>
-                <stop refId="pt_418946_Suburban_Railway" arrivalOffset="01:13:00" departureOffset="01:13:00" awaitDeparture="true"/>
+                <stop refId="530941_SuburbanRailway_rail" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="52187_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="630916_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
+                <stop refId="644137_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="582567_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="312961_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="245980_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="222332_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
+                <stop refId="176775_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
+                <stop refId="251016_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="308361_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="415349_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="38354_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
+                <stop refId="299684_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="578646_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="657409_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="494021_SuburbanRailway" arrivalOffset="00:43:00" departureOffset="00:43:00" awaitDeparture="true"/>
+                <stop refId="64560_SuburbanRailway" arrivalOffset="00:45:00" departureOffset="00:45:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
+                <stop refId="122270_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="438753_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
+                <stop refId="73276_SuburbanRailway" arrivalOffset="01:05:00" departureOffset="01:05:00" awaitDeparture="true"/>
+                <stop refId="23995_SuburbanRailway" arrivalOffset="01:07:00" departureOffset="01:07:00" awaitDeparture="true"/>
+                <stop refId="535020_SuburbanRailway" arrivalOffset="01:11:00" departureOffset="01:11:00" awaitDeparture="true"/>
+                <stop refId="418946_SuburbanRailway" arrivalOffset="01:13:00" departureOffset="01:13:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_530941_SuburbanRailway_rail"/>
@@ -453,9 +453,9 @@
                 <link refId="pt_245980_SuburbanRailway"/>
                 <link refId="pt_245980_SuburbanRailway-pt_222332_SuburbanRailway"/>
                 <link refId="pt_222332_SuburbanRailway"/>
-                <link refId="pt_222332_SuburbanRailway-pt_176775_rail"/>
-                <link refId="pt_176775_rail"/>
-                <link refId="pt_176775_rail-pt_251016_SuburbanRailway"/>
+                <link refId="pt_222332_SuburbanRailway-pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway-pt_251016_SuburbanRailway"/>
                 <link refId="pt_251016_SuburbanRailway"/>
                 <link refId="pt_251016_SuburbanRailway-pt_308361_SuburbanRailway"/>
                 <link refId="pt_308361_SuburbanRailway"/>
@@ -493,8 +493,8 @@
                 <link refId="pt_23995_SuburbanRailway"/>
                 <link refId="pt_23995_SuburbanRailway-pt_535020_SuburbanRailway"/>
                 <link refId="pt_535020_SuburbanRailway"/>
-                <link refId="pt_535020_SuburbanRailway-pt_418946_Suburban_Railway"/>
-                <link refId="pt_418946_Suburban_Railway"/>
+                <link refId="pt_535020_SuburbanRailway-pt_418946_SuburbanRailway"/>
+                <link refId="pt_418946_SuburbanRailway"/>
             </route>
             <departures>
                 <departure id="hw_s2_r---1_0_0" departureTime="00:01:00" vehicleRefId="hw_veh_s2_r---1_0_0"/>
@@ -508,35 +508,35 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_530941_SuburbanRailway_rail" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_52187_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_630916_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
-                <stop refId="pt_644137_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_582567_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_312961_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_245980_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_222332_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
-                <stop refId="pt_176775_rail" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
-                <stop refId="pt_251016_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_308361_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_415349_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_38354_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
-                <stop refId="pt_299684_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_578646_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_657409_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_494021_SuburbanRailway" arrivalOffset="00:43:00" departureOffset="00:43:00" awaitDeparture="true"/>
-                <stop refId="pt_64560_SuburbanRailway" arrivalOffset="00:45:00" departureOffset="00:45:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
-                <stop refId="pt_122270_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
-                <stop refId="pt_438753_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
-                <stop refId="pt_73276_SuburbanRailway" arrivalOffset="01:05:00" departureOffset="01:05:00" awaitDeparture="true"/>
-                <stop refId="pt_23995_SuburbanRailway" arrivalOffset="01:07:00" departureOffset="01:07:00" awaitDeparture="true"/>
-                <stop refId="pt_535020_SuburbanRailway" arrivalOffset="01:11:00" departureOffset="01:11:00" awaitDeparture="true"/>
-                <stop refId="pt_418946_Suburban_Railway" arrivalOffset="01:13:00" departureOffset="01:13:00" awaitDeparture="true"/>
+                <stop refId="530941_SuburbanRailway_rail" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="52187_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="630916_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
+                <stop refId="644137_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="582567_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="312961_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="245980_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="222332_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
+                <stop refId="176775_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
+                <stop refId="251016_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="308361_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="415349_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="38354_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
+                <stop refId="299684_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="578646_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="657409_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="494021_SuburbanRailway" arrivalOffset="00:43:00" departureOffset="00:43:00" awaitDeparture="true"/>
+                <stop refId="64560_SuburbanRailway" arrivalOffset="00:45:00" departureOffset="00:45:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
+                <stop refId="122270_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="438753_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
+                <stop refId="73276_SuburbanRailway" arrivalOffset="01:05:00" departureOffset="01:05:00" awaitDeparture="true"/>
+                <stop refId="23995_SuburbanRailway" arrivalOffset="01:07:00" departureOffset="01:07:00" awaitDeparture="true"/>
+                <stop refId="535020_SuburbanRailway" arrivalOffset="01:11:00" departureOffset="01:11:00" awaitDeparture="true"/>
+                <stop refId="418946_SuburbanRailway" arrivalOffset="01:13:00" departureOffset="01:13:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_530941_SuburbanRailway_rail"/>
@@ -554,9 +554,9 @@
                 <link refId="pt_245980_SuburbanRailway"/>
                 <link refId="pt_245980_SuburbanRailway-pt_222332_SuburbanRailway"/>
                 <link refId="pt_222332_SuburbanRailway"/>
-                <link refId="pt_222332_SuburbanRailway-pt_176775_rail"/>
-                <link refId="pt_176775_rail"/>
-                <link refId="pt_176775_rail-pt_251016_SuburbanRailway"/>
+                <link refId="pt_222332_SuburbanRailway-pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway-pt_251016_SuburbanRailway"/>
                 <link refId="pt_251016_SuburbanRailway"/>
                 <link refId="pt_251016_SuburbanRailway-pt_308361_SuburbanRailway"/>
                 <link refId="pt_308361_SuburbanRailway"/>
@@ -594,8 +594,8 @@
                 <link refId="pt_23995_SuburbanRailway"/>
                 <link refId="pt_23995_SuburbanRailway-pt_535020_SuburbanRailway"/>
                 <link refId="pt_535020_SuburbanRailway"/>
-                <link refId="pt_535020_SuburbanRailway-pt_418946_Suburban_Railway"/>
-                <link refId="pt_418946_Suburban_Railway"/>
+                <link refId="pt_535020_SuburbanRailway-pt_418946_SuburbanRailway"/>
+                <link refId="pt_418946_SuburbanRailway"/>
             </route>
             <departures>
                 <departure id="hw_s2_r---1_1_0" departureTime="04:01:00" vehicleRefId="hw_veh_s2_r---1_1_0"/>
@@ -669,29 +669,29 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_630916_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_644137_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
-                <stop refId="pt_582567_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
-                <stop refId="pt_312961_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_245980_SuburbanRailway" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true"/>
-                <stop refId="pt_222332_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_176775_rail" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
-                <stop refId="pt_251016_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
-                <stop refId="pt_308361_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_415349_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_38354_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_299684_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_578646_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
-                <stop refId="pt_657409_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
-                <stop refId="pt_494021_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_64560_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:45:00" departureOffset="00:45:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:48:00" departureOffset="00:48:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
-                <stop refId="pt_122270_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
-                <stop refId="pt_438753_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
+                <stop refId="630916_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="644137_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
+                <stop refId="582567_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
+                <stop refId="312961_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="245980_SuburbanRailway" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true"/>
+                <stop refId="222332_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="176775_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
+                <stop refId="251016_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
+                <stop refId="308361_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="415349_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="38354_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="299684_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="578646_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="657409_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
+                <stop refId="494021_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="64560_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:45:00" departureOffset="00:45:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:48:00" departureOffset="00:48:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
+                <stop refId="122270_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="438753_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_630916_SuburbanRailway"/>
@@ -705,9 +705,9 @@
                 <link refId="pt_245980_SuburbanRailway"/>
                 <link refId="pt_245980_SuburbanRailway-pt_222332_SuburbanRailway"/>
                 <link refId="pt_222332_SuburbanRailway"/>
-                <link refId="pt_222332_SuburbanRailway-pt_176775_rail"/>
-                <link refId="pt_176775_rail"/>
-                <link refId="pt_176775_rail-pt_251016_SuburbanRailway"/>
+                <link refId="pt_222332_SuburbanRailway-pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway"/>
+                <link refId="pt_176775_SuburbanRailway-pt_251016_SuburbanRailway"/>
                 <link refId="pt_251016_SuburbanRailway"/>
                 <link refId="pt_251016_SuburbanRailway-pt_308361_SuburbanRailway"/>
                 <link refId="pt_308361_SuburbanRailway"/>
@@ -791,7 +791,7 @@
             </departures>
         </transitRoute>
     </transitLine>
-    <transitLine id="hw_s8---1" name="S2">
+    <transitLine id="hw_s8---1" name="s8">
         <attributes>
             <attribute name="gtfs_agency_id" class="java.lang.String">401</attribute>
             <attribute name="gtfs_route_short_name" class="java.lang.String">S2</attribute>
@@ -803,31 +803,31 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="00:54:00" departureOffset="00:54:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="00:54:00" departureOffset="00:54:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway_rail" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_422660_SuburbanRailway"/>
@@ -892,31 +892,31 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="00:54:00" departureOffset="00:54:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:50:00" departureOffset="00:50:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="00:54:00" departureOffset="00:54:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway_rail" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_422660_SuburbanRailway"/>
@@ -991,34 +991,34 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_390297_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_393235_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_652323_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:48:00" departureOffset="00:48:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:51:00" departureOffset="00:51:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:53:00" departureOffset="00:53:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="01:06:00" departureOffset="01:06:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="01:08:00" departureOffset="01:08:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="01:11:00" departureOffset="01:11:00" awaitDeparture="true"/>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="01:14:00" departureOffset="01:14:00" awaitDeparture="true"/>
+                <stop refId="390297_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="393235_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="652323_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:48:00" departureOffset="00:48:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:51:00" departureOffset="00:51:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:53:00" departureOffset="00:53:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="01:06:00" departureOffset="01:06:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="01:08:00" departureOffset="01:08:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="01:11:00" departureOffset="01:11:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway_rail" arrivalOffset="01:14:00" departureOffset="01:14:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_390297_SuburbanRailway"/>
@@ -1098,34 +1098,34 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_390297_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_393235_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_652323_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:48:00" departureOffset="00:48:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:51:00" departureOffset="00:51:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:53:00" departureOffset="00:53:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="01:06:00" departureOffset="01:06:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="01:08:00" departureOffset="01:08:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="01:11:00" departureOffset="01:11:00" awaitDeparture="true"/>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="01:14:00" departureOffset="01:14:00" awaitDeparture="true"/>
+                <stop refId="390297_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="393235_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="652323_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:23:00" departureOffset="00:23:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:42:00" departureOffset="00:42:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:46:00" departureOffset="00:46:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:48:00" departureOffset="00:48:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:51:00" departureOffset="00:51:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:53:00" departureOffset="00:53:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:56:00" departureOffset="00:56:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="01:02:00" departureOffset="01:02:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="01:06:00" departureOffset="01:06:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="01:08:00" departureOffset="01:08:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="01:11:00" departureOffset="01:11:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway_rail" arrivalOffset="01:14:00" departureOffset="01:14:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_390297_SuburbanRailway"/>
@@ -1208,24 +1208,24 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_422660_SuburbanRailway"/>
@@ -1276,24 +1276,24 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:34:00" departureOffset="00:34:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_422660_SuburbanRailway"/>
@@ -1332,7 +1332,17 @@
                 <link refId="pt_275805_SuburbanRailway-pt_93748_SuburbanRailway"/>
                 <link refId="pt_93748_SuburbanRailway"/>
             </route>
-            <departures/>
+            <departures>
+                <departure id="hw_s8---1_5_0" departureTime="22:09:00" vehicleRefId="hw_veh_s8---1_5_0"/>
+                <departure id="hw_s8---1_5_1" departureTime="22:29:00" vehicleRefId="hw_veh_s8---1_5_1"/>
+                <departure id="hw_s8---1_5_2" departureTime="22:49:00" vehicleRefId="hw_veh_s8---1_5_2"/>
+                <departure id="hw_s8---1_5_3" departureTime="23:09:00" vehicleRefId="hw_veh_s8---1_5_3"/>
+                <departure id="hw_s8---1_5_4" departureTime="23:29:00" vehicleRefId="hw_veh_s8---1_5_4"/>
+                <departure id="hw_s8---1_5_5" departureTime="23:49:00" vehicleRefId="hw_veh_s8---1_5_5"/>
+                <departure id="hw_s8---1_5_6" departureTime="24:09:00" vehicleRefId="hw_veh_s8---1_5_6"/>
+                <departure id="hw_s8---1_5_7" departureTime="24:29:00" vehicleRefId="hw_veh_s8---1_5_7"/>
+                <departure id="hw_s8---1_5_8" departureTime="24:49:00" vehicleRefId="hw_veh_s8---1_5_8"/>
+            </departures>
         </transitRoute>
         <transitRoute id="hw_s8---1_6">
             <attributes>
@@ -1340,14 +1350,14 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="00:13:00" departureOffset="00:13:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway_rail" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_93748_SuburbanRailway"/>
@@ -1373,7 +1383,7 @@
             </departures>
         </transitRoute>
     </transitLine>
-    <transitLine id="hw_s8_r---1" name="S2">
+    <transitLine id="hw_s8_r---1" name="s8_r">
         <attributes>
             <attribute name="gtfs_agency_id" class="java.lang.String">401</attribute>
             <attribute name="gtfs_route_short_name" class="java.lang.String">S2</attribute>
@@ -1385,35 +1395,35 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
-                <link refId="pt_386358_SuburbanRailway_rail"/>
-                <link refId="pt_386358_SuburbanRailway_rail-pt_158944_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway-pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway-pt_310343_SuburbanRailway"/>
                 <link refId="pt_310343_SuburbanRailway"/>
@@ -1474,35 +1484,35 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
-                <link refId="pt_386358_SuburbanRailway_rail"/>
-                <link refId="pt_386358_SuburbanRailway_rail-pt_158944_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway-pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway-pt_310343_SuburbanRailway"/>
                 <link refId="pt_310343_SuburbanRailway"/>
@@ -1575,38 +1585,38 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
-                <stop refId="pt_652323_SuburbanRailway" arrivalOffset="01:03:00" departureOffset="01:03:00" awaitDeparture="true"/>
-                <stop refId="pt_393235_SuburbanRailway" arrivalOffset="01:05:00" departureOffset="01:05:00" awaitDeparture="true"/>
-                <stop refId="pt_390297_SuburbanRailway" arrivalOffset="01:12:00" departureOffset="01:12:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="652323_SuburbanRailway" arrivalOffset="01:03:00" departureOffset="01:03:00" awaitDeparture="true"/>
+                <stop refId="393235_SuburbanRailway" arrivalOffset="01:05:00" departureOffset="01:05:00" awaitDeparture="true"/>
+                <stop refId="390297_SuburbanRailway" arrivalOffset="01:12:00" departureOffset="01:12:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
-                <link refId="pt_386358_SuburbanRailway_rail"/>
-                <link refId="pt_386358_SuburbanRailway_rail-pt_158944_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway-pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway-pt_310343_SuburbanRailway"/>
                 <link refId="pt_310343_SuburbanRailway"/>
@@ -1682,38 +1692,38 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
-                <stop refId="pt_652323_SuburbanRailway" arrivalOffset="01:03:00" departureOffset="01:03:00" awaitDeparture="true"/>
-                <stop refId="pt_393235_SuburbanRailway" arrivalOffset="01:05:00" departureOffset="01:05:00" awaitDeparture="true"/>
-                <stop refId="pt_390297_SuburbanRailway" arrivalOffset="01:12:00" departureOffset="01:12:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:21:00" departureOffset="00:21:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:31:00" departureOffset="00:31:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:35:00" departureOffset="00:35:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:37:00" departureOffset="00:37:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:39:00" departureOffset="00:39:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:41:00" departureOffset="00:41:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:44:00" departureOffset="00:44:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:47:00" departureOffset="00:47:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:49:00" departureOffset="00:49:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:52:00" departureOffset="00:52:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:55:00" departureOffset="00:55:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:57:00" departureOffset="00:57:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:59:00" departureOffset="00:59:00" awaitDeparture="true"/>
+                <stop refId="652323_SuburbanRailway" arrivalOffset="01:03:00" departureOffset="01:03:00" awaitDeparture="true"/>
+                <stop refId="393235_SuburbanRailway" arrivalOffset="01:05:00" departureOffset="01:05:00" awaitDeparture="true"/>
+                <stop refId="390297_SuburbanRailway" arrivalOffset="01:12:00" departureOffset="01:12:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
-                <link refId="pt_386358_SuburbanRailway_rail"/>
-                <link refId="pt_386358_SuburbanRailway_rail-pt_158944_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway-pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway-pt_310343_SuburbanRailway"/>
                 <link refId="pt_310343_SuburbanRailway"/>
@@ -1792,24 +1802,24 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_93748_SuburbanRailway"/>
@@ -1860,24 +1870,24 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_275805_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
-                <stop refId="pt_351543_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
-                <stop refId="pt_450043_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
-                <stop refId="pt_421226_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_572466_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_327725_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_6046_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_97868_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
-                <stop refId="pt_595977_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_57292_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
-                <stop refId="pt_592259_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_306089_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_547448_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
-                <stop refId="pt_485357_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
-                <stop refId="pt_27805_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
-                <stop refId="pt_422660_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="275805_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
+                <stop refId="351543_SuburbanRailway" arrivalOffset="00:05:00" departureOffset="00:05:00" awaitDeparture="true"/>
+                <stop refId="450043_SuburbanRailway" arrivalOffset="00:07:00" departureOffset="00:07:00" awaitDeparture="true"/>
+                <stop refId="421226_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="572466_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="327725_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="6046_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="97868_SuburbanRailway" arrivalOffset="00:18:00" departureOffset="00:18:00" awaitDeparture="true"/>
+                <stop refId="595977_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="57292_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
+                <stop refId="592259_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="306089_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="547448_SuburbanRailway" arrivalOffset="00:33:00" departureOffset="00:33:00" awaitDeparture="true"/>
+                <stop refId="485357_SuburbanRailway" arrivalOffset="00:36:00" departureOffset="00:36:00" awaitDeparture="true"/>
+                <stop refId="27805_SuburbanRailway" arrivalOffset="00:38:00" departureOffset="00:38:00" awaitDeparture="true"/>
+                <stop refId="422660_SuburbanRailway" arrivalOffset="00:40:00" departureOffset="00:40:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_93748_SuburbanRailway"/>
@@ -1916,7 +1926,17 @@
                 <link refId="pt_27805_SuburbanRailway-pt_422660_SuburbanRailway"/>
                 <link refId="pt_422660_SuburbanRailway"/>
             </route>
-            <departures/>
+            <departures>
+                <departure id="hw_s8_r---1_5_0" departureTime="22:05:00" vehicleRefId="hw_veh_s8_r---1_5_0"/>
+                <departure id="hw_s8_r---1_5_1" departureTime="22:25:00" vehicleRefId="hw_veh_s8_r---1_5_1"/>
+                <departure id="hw_s8_r---1_5_2" departureTime="22:45:00" vehicleRefId="hw_veh_s8_r---1_5_2"/>
+                <departure id="hw_s8_r---1_5_3" departureTime="23:05:00" vehicleRefId="hw_veh_s8_r---1_5_3"/>
+                <departure id="hw_s8_r---1_5_4" departureTime="23:25:00" vehicleRefId="hw_veh_s8_r---1_5_4"/>
+                <departure id="hw_s8_r---1_5_5" departureTime="23:45:00" vehicleRefId="hw_veh_s8_r---1_5_5"/>
+                <departure id="hw_s8_r---1_5_6" departureTime="24:05:00" vehicleRefId="hw_veh_s8_r---1_5_6"/>
+                <departure id="hw_s8_r---1_5_7" departureTime="24:25:00" vehicleRefId="hw_veh_s8_r---1_5_7"/>
+                <departure id="hw_s8_r---1_5_8" departureTime="24:45:00" vehicleRefId="hw_veh_s8_r---1_5_8"/>
+            </departures>
         </transitRoute>
         <transitRoute id="hw_s8_r---1_6">
             <attributes>
@@ -1924,18 +1944,18 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_386358_SuburbanRailway_rail" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
-                <stop refId="pt_310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="386358_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="158944_SuburbanRailway" arrivalOffset="00:03:00" departureOffset="00:03:00" awaitDeparture="true"/>
+                <stop refId="310343_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="590716_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:15:00" departureOffset="00:15:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="93748_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
-                <link refId="pt_386358_SuburbanRailway_rail"/>
-                <link refId="pt_386358_SuburbanRailway_rail-pt_158944_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway"/>
+                <link refId="pt_386358_SuburbanRailway-pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway"/>
                 <link refId="pt_158944_SuburbanRailway-pt_310343_SuburbanRailway"/>
                 <link refId="pt_310343_SuburbanRailway"/>
@@ -1957,7 +1977,7 @@
             </departures>
         </transitRoute>
     </transitLine>
-    <transitLine id="hw_s75---1" name="S2">
+    <transitLine id="hw_s75---1" name="s75">
         <attributes>
             <attribute name="gtfs_agency_id" class="java.lang.String">401</attribute>
             <attribute name="gtfs_route_short_name" class="java.lang.String">S2</attribute>
@@ -1969,21 +1989,21 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_hw2_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_hw1_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_290607_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_401397_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_123233_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_657653_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_438123_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_394621_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
-                <stop refId="pt_66170_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_75928_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="hw2_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="hw1_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="290607_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="401397_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="123233_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="657653_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="438123_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="394621_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
+                <stop refId="66170_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="75928_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_138486_SuburbanRailway"/>
@@ -2028,21 +2048,21 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_hw2_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_hw1_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_290607_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_401397_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_123233_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_657653_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_438123_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_394621_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
-                <stop refId="pt_66170_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_75928_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="hw2_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="hw1_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="290607_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="401397_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="123233_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="657653_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="438123_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="394621_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
+                <stop refId="66170_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="75928_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_138486_SuburbanRailway"/>
@@ -2088,21 +2108,21 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_hw2_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_hw1_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_290607_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_401397_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_123233_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_657653_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_438123_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_394621_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
-                <stop refId="pt_66170_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_75928_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="hw2_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="hw1_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="290607_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="401397_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="123233_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="657653_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="438123_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="394621_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
+                <stop refId="66170_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="75928_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_138486_SuburbanRailway"/>
@@ -2240,21 +2260,21 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_hw2_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
-                <stop refId="pt_hw1_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
-                <stop refId="pt_290607_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
-                <stop refId="pt_401397_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_123233_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
-                <stop refId="pt_657653_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
-                <stop refId="pt_438123_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_394621_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
-                <stop refId="pt_66170_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
-                <stop refId="pt_75928_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:02:00" departureOffset="00:02:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="hw2_SuburbanRailway" arrivalOffset="00:08:00" departureOffset="00:08:00" awaitDeparture="true"/>
+                <stop refId="hw1_SuburbanRailway" arrivalOffset="00:10:00" departureOffset="00:10:00" awaitDeparture="true"/>
+                <stop refId="290607_SuburbanRailway" arrivalOffset="00:12:00" departureOffset="00:12:00" awaitDeparture="true"/>
+                <stop refId="401397_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="123233_SuburbanRailway" arrivalOffset="00:16:00" departureOffset="00:16:00" awaitDeparture="true"/>
+                <stop refId="657653_SuburbanRailway" arrivalOffset="00:19:00" departureOffset="00:19:00" awaitDeparture="true"/>
+                <stop refId="438123_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="394621_SuburbanRailway" arrivalOffset="00:25:00" departureOffset="00:25:00" awaitDeparture="true"/>
+                <stop refId="66170_SuburbanRailway" arrivalOffset="00:27:00" departureOffset="00:27:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:29:00" departureOffset="00:29:00" awaitDeparture="true"/>
+                <stop refId="75928_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_138486_SuburbanRailway"/>
@@ -2303,7 +2323,7 @@
             </departures>
         </transitRoute>
     </transitLine>
-    <transitLine id="hw_s75_r---1" name="S2">
+    <transitLine id="hw_s75_r---1" name="s75_r">
         <attributes>
             <attribute name="gtfs_agency_id" class="java.lang.String">401</attribute>
             <attribute name="gtfs_route_short_name" class="java.lang.String">S2</attribute>
@@ -2315,21 +2335,21 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_75928_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true"/>
-                <stop refId="pt_66170_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
-                <stop refId="pt_394621_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_438123_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_657653_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
-                <stop refId="pt_123233_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_401397_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_290607_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_hw1_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_hw2_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="75928_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true"/>
+                <stop refId="66170_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
+                <stop refId="394621_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="438123_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="657653_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
+                <stop refId="123233_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="401397_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="290607_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="hw1_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="hw2_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_75928_SuburbanRailway"/>
@@ -2374,21 +2394,21 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_75928_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true"/>
-                <stop refId="pt_66170_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
-                <stop refId="pt_394621_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_438123_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_657653_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
-                <stop refId="pt_123233_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_401397_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_290607_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_hw1_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_hw2_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="75928_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true"/>
+                <stop refId="66170_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
+                <stop refId="394621_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="438123_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="657653_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
+                <stop refId="123233_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="401397_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="290607_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="hw1_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="hw2_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_75928_SuburbanRailway"/>
@@ -2433,21 +2453,21 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_75928_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true"/>
-                <stop refId="pt_66170_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
-                <stop refId="pt_394621_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_438123_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_657653_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
-                <stop refId="pt_123233_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_401397_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_290607_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_hw1_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_hw2_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="75928_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true"/>
+                <stop refId="66170_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
+                <stop refId="394621_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="438123_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="657653_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
+                <stop refId="123233_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="401397_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="290607_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="hw1_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="hw2_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_75928_SuburbanRailway"/>
@@ -2585,21 +2605,21 @@
             </attributes>
             <transportMode>Suburban Railway</transportMode>
             <routeProfile>
-                <stop refId="pt_75928_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
-                <stop refId="pt_378079_SuburbanRailway" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true"/>
-                <stop refId="pt_66170_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
-                <stop refId="pt_394621_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
-                <stop refId="pt_438123_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
-                <stop refId="pt_657653_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
-                <stop refId="pt_123233_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
-                <stop refId="pt_401397_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
-                <stop refId="pt_290607_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
-                <stop refId="pt_hw1_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
-                <stop refId="pt_hw2_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
-                <stop refId="pt_hw3_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
-                <stop refId="pt_hw4_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
-                <stop refId="pt_hw5_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
-                <stop refId="pt_138486_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
+                <stop refId="75928_SuburbanRailway" arrivalOffset="00:00:00" departureOffset="00:00:00" awaitDeparture="true"/>
+                <stop refId="378079_SuburbanRailway" arrivalOffset="00:01:00" departureOffset="00:01:00" awaitDeparture="true"/>
+                <stop refId="66170_SuburbanRailway" arrivalOffset="00:04:00" departureOffset="00:04:00" awaitDeparture="true"/>
+                <stop refId="394621_SuburbanRailway" arrivalOffset="00:06:00" departureOffset="00:06:00" awaitDeparture="true"/>
+                <stop refId="438123_SuburbanRailway" arrivalOffset="00:09:00" departureOffset="00:09:00" awaitDeparture="true"/>
+                <stop refId="657653_SuburbanRailway" arrivalOffset="00:11:00" departureOffset="00:11:00" awaitDeparture="true"/>
+                <stop refId="123233_SuburbanRailway" arrivalOffset="00:14:00" departureOffset="00:14:00" awaitDeparture="true"/>
+                <stop refId="401397_SuburbanRailway" arrivalOffset="00:17:00" departureOffset="00:17:00" awaitDeparture="true"/>
+                <stop refId="290607_SuburbanRailway" arrivalOffset="00:20:00" departureOffset="00:20:00" awaitDeparture="true"/>
+                <stop refId="hw1_SuburbanRailway" arrivalOffset="00:22:00" departureOffset="00:22:00" awaitDeparture="true"/>
+                <stop refId="hw2_SuburbanRailway" arrivalOffset="00:24:00" departureOffset="00:24:00" awaitDeparture="true"/>
+                <stop refId="hw3_SuburbanRailway" arrivalOffset="00:26:00" departureOffset="00:26:00" awaitDeparture="true"/>
+                <stop refId="hw4_SuburbanRailway" arrivalOffset="00:28:00" departureOffset="00:28:00" awaitDeparture="true"/>
+                <stop refId="hw5_SuburbanRailway" arrivalOffset="00:30:00" departureOffset="00:30:00" awaitDeparture="true"/>
+                <stop refId="138486_SuburbanRailway" arrivalOffset="00:32:00" departureOffset="00:32:00" awaitDeparture="true"/>
             </routeProfile>
             <route>
                 <link refId="pt_75928_SuburbanRailway"/>

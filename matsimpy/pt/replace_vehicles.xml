@@ -271,6 +271,15 @@
     <vehicle id="hw_veh_s8---1_4_0" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8---1_4_1" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8---1_4_2" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8---1_5_0" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8---1_5_1" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8---1_5_2" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8---1_5_3" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8---1_5_4" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8---1_5_5" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8---1_5_6" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8---1_5_7" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8---1_5_8" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8---1_6_0" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8---1_6_1" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8---1_6_2" type="S-Bahn_veh_type"/>
@@ -322,6 +331,15 @@
     <vehicle id="hw_veh_s8_r---1_4_0" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8_r---1_4_1" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8_r---1_4_2" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8_r---1_5_0" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8_r---1_5_1" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8_r---1_5_2" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8_r---1_5_3" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8_r---1_5_4" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8_r---1_5_5" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8_r---1_5_6" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8_r---1_5_7" type="S-Bahn_veh_type"/>
+    <vehicle id="hw_veh_s8_r---1_5_8" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8_r---1_6_0" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8_r---1_6_1" type="S-Bahn_veh_type"/>
     <vehicle id="hw_veh_s8_r---1_6_2" type="S-Bahn_veh_type"/>
