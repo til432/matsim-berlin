@@ -10,14 +10,14 @@ s8;Gruenau;Birkenwerder;9;14;20;49
 s8;Wildau;Birkenwerder;5;9;20;14
 s8;Wildau;Birkenwerder;14;19;20;14
 s8;Gruenau;Blankenburg;0;1;20;9
-s8;Gruenau;Blankenburg;22;1;20;9
+s8;Gruenau;Blankenburg;22;25;20;9
 s8;Blankenburg;Birkenwerder;21;24;60;33
 s8_r;Birkenwerder;Gruenau;4;5;20;4
 s8_r;Birkenwerder;Gruenau;9;14;20;4
 s8_r;Birkenwerder;Wildau;5;9;20;4
 s8_r;Birkenwerder;Wildau;14;19;20;4
 s8_r;Blankenburg;Gruenau;0;1;20;5
-s8_r;Blankenburg;Gruenau;22;1;20;5
+s8_r;Blankenburg;Gruenau;22;25;20;5
 s8_r;Birkenwerder;Blankenburg;21;24;60;23
 s75;Muehlenbeck Moenchmuehle;Warschauer Str;0;1;20;4
 s75;Muehlenbeck Moenchmuehle;Warschauer Str;3;5;20;44
