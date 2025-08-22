@@ -142,3 +142,5 @@ public final class ScoreCalculator implements IncrementalScoreCalculator<PlanAss
 		return -diffChange(metric, counts[idx], Math.max(0, observed[idx] - e.getIntValue()), observed[idx]);
 	}
 }
+
+

@@ -35,3 +35,5 @@ if __name__ == "__main__":
     aggr = aggr.groupby(["home", "work"]).count()
 
     aggr.to_csv("berlin-work-commuter.csv", columns=["n"], index=True)
+
+

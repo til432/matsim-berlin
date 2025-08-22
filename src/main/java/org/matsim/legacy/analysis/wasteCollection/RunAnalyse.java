@@ -208,3 +208,5 @@ public class RunAnalyse {
 		return stunden + ":" + minuten + ":" + sekunden;
 	}
 }
+
+

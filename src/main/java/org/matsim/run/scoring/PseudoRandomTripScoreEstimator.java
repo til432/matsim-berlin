@@ -22,3 +22,5 @@ public class PseudoRandomTripScoreEstimator implements TripScoreEstimator {
 		return scorer.scoreTrip(context.person.getId(), mainMode, trip);
 	}
 }
+
+

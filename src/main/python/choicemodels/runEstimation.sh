@@ -15,3 +15,5 @@ hostname
 source env/bin/activate
 
 python -u estimate_biogeme_plan_choice.py --input "plan-choices-bestK_9-tt-only.csv"
+
+

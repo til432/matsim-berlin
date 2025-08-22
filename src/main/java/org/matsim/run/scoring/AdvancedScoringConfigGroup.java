@@ -202,3 +202,5 @@ public final class AdvancedScoringConfigGroup extends ReflectiveConfigGroup {
 		}
 	}
 }
+
+

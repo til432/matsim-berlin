@@ -93,3 +93,5 @@ public final class OpenBerlinIntermodalPtDrtRouterModeIdentifier implements Anal
 		return modeHierarchy.get( mainModeIndex ) ;
 	}
 }
+
+

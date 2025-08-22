@@ -155,3 +155,5 @@ public class DTVAnalysis implements MATSimAppCommand {
 		return volumes == null ? 0 : Arrays.stream(volumes).sum();
 	}
 }
+
+

@@ -19,3 +19,5 @@ public record Station(String id, String name, String direction, Coord coord, Ato
 		return id + "_" + name;
 	}
 }
+
+

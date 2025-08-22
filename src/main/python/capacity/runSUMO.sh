@@ -35,3 +35,4 @@ echo ""
 
 $command
 python features.py $mode --input $f
+

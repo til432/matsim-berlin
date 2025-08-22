@@ -54,3 +54,5 @@ module add java/21
 java -version
 
 $command
+
+

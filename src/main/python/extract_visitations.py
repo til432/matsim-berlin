@@ -12,3 +12,4 @@ if __name__ == "__main__":
     print(df)
 
     df.to_csv("visitations.csv.gz", index=False)
+

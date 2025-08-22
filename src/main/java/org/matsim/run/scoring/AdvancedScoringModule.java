@@ -25,3 +25,5 @@ public class AdvancedScoringModule extends AbstractModule {
 		bindScoringFunctionFactory().to(AdvancedScoringFunctionFactory.class).in(Singleton.class);
 	}
 }
+
+

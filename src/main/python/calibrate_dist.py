@@ -47,3 +47,5 @@ study, obj = create_calibration(
 # %%
 
 study.optimize(obj, 10)
+
+

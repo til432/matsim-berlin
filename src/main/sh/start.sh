@@ -17,3 +17,5 @@ echo "Starting run $name"
 echo "$*"
 
 sbatch --parsable --export=ALL --job-name matsim-"$name" job.sh
+
+

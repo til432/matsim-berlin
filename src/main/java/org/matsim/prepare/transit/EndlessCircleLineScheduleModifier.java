@@ -312,3 +312,5 @@ public class EndlessCircleLineScheduleModifier implements MATSimAppCommand {
 		schedule.getTransitLines().get(transitLineId).removeRoute(oldNonLoopingTransitRouteToDelete);
 	}
 }
+
+

@@ -61,3 +61,5 @@ public class AssignIncome implements PersonAlgorithm {
 	}
 
 }
+
+

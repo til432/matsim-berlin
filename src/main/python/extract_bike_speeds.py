@@ -29,3 +29,4 @@ if __name__ == "__main__":
     t = t[t.main_mode == TripMode.BIKE]
 
     t.to_csv('bike_speeds.csv', columns=["t_weight", "age", "speed"], index=False)
+

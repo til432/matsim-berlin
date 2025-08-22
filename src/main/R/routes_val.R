@@ -107,3 +107,5 @@ ggplot(freight_h, aes(x=hour)) +
     ylab("Mean vehicles /h") +
     geom_line(aes(y=observed, color="observed"), size=2) +
     geom_line(aes(y=simulated, color="simulated"), size=2)
+
+

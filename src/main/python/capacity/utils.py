@@ -151,3 +151,4 @@ def filter_network_polygon(netconvert, netfile, location_offset, geometry, outpu
     cmd += ['-o', output]
 
     call(cmd)
+

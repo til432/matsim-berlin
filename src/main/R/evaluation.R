@@ -140,3 +140,5 @@ d_sim <- sim %>% group_by(dist_group) %>%
 
 ggplot(data=bind_rows(list(d_ref, d_sim)), aes(x=dist_group, y=share, fill=source)) +
   geom_bar(stat = "identity", position=position_dodge())
+
+

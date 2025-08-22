@@ -28,3 +28,5 @@ if __name__ == "__main__":
     aggr["zone"] = aggr.location.str.slice(0, 2).astype(int)
 
     aggr.to_csv("workplaces.csv", columns=["location", "zone", "employees"], index=False)
+
+

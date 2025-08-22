@@ -218,3 +218,5 @@ public final class PiecewiseLinearlLegScoring implements org.matsim.core.scoring
 		this.score += legScore;
 	}
 }
+
+

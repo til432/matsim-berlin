@@ -119,3 +119,5 @@ public class SplitActivityTypesBasedOnDuration {
 		configWriter.write(outputConfigFile);
 	}
 }
+
+

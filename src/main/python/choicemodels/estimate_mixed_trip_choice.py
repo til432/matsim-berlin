@@ -78,3 +78,5 @@ if __name__ == "__main__":
                   alts=df['alt'], ids=df['custom_id'], avail=df['valid'], random_state=args.seed)
 
     model.summary()
+
+

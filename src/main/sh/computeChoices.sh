@@ -36,3 +36,4 @@ run_trip() {
 run_trip ""
 
 run_plan "--plan-candidates subtour --top-k 70"
+

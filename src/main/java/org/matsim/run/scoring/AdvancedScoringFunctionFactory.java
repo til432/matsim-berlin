@@ -51,3 +51,5 @@ public class AdvancedScoringFunctionFactory implements ScoringFunctionFactory {
 	}
 
 }
+
+

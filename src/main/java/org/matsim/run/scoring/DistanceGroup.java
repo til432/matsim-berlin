@@ -13,3 +13,5 @@ record DistanceGroup(double dist, double constant, double utilPerM) implements C
 		return Double.compare(dist, o.dist);
 	}
 }
+
+

@@ -80,3 +80,5 @@ public class ExclusiveCarPlanGenerator implements ChoiceGenerator {
 		return candidates.stream().distinct().limit(2).toList();
 	}
 }
+
+

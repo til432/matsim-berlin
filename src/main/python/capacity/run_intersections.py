@@ -219,3 +219,5 @@ if __name__ == "__main__":
     print("Processing: ", args.from_index, ' to ', args.to_index)
 
     run(args, traffic_intersections)
+
+

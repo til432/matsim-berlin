@@ -178,3 +178,5 @@ def read_trip_choices(input_file: str) -> TripChoice:
     df.dist_weight = df.dist_weight.fillna(1)
 
     return TripChoice(df, modes, varying, read_global_income(input_file))
+
+

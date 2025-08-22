@@ -64,3 +64,5 @@ if __name__ == "__main__":
         ml.fit(df, "target", exclude=["purpose", "osm_id", "osm_type", "location", "n"])
 
         ml.write_java("../../../src/main/java", "org.matsim.prepare.facilities", "FacilityAttractionModel" + purpose.capitalize())
+
+

@@ -51,3 +51,5 @@ public class ExtractPlanIndexFromType implements MATSimAppCommand, PersonAlgorit
 		mapping.put(person.getId().toString(), Integer.parseInt(type));
 	}
 }
+
+

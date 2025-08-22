@@ -204,3 +204,5 @@ act = pd.read_csv("table-activities.csv")
 aggr = act.groupby("p_id").max()
 
 #%%
+
+

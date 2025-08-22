@@ -79,3 +79,5 @@ public class RunDirectWalkAnalysis {
         return ScenarioUtils.loadScenario(config);
     }
 }
+
+

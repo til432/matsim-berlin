@@ -35,3 +35,4 @@ while ! nc -z localhost 9090; do
 done
 
 python3.9 -u opt_freespeed.py
+

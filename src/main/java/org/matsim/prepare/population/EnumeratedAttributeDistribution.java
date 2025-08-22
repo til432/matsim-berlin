@@ -35,3 +35,5 @@ public class EnumeratedAttributeDistribution<T> implements AttributeDistribution
 		return dist.sample();
 	}
 }
+
+

@@ -87,3 +87,5 @@ ggplot(speeds_summary, aes(hour, avg_speed, color = src)) +
   theme(legend.position = "bottom")
 
 ggsave(filename = paste0(FILE_DIR, "Berlin_v6.x_speeds_comparsion.png"))
+
+

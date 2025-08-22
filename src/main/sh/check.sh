@@ -10,3 +10,5 @@ for d in output/*; do
 	fi
 
 done
+
+

@@ -24,3 +24,4 @@ if __name__ == "__main__":
     berlin_edu.to_csv("berlin_edu_commute.csv", index=False)
     bb_work.to_csv("bb_work_commute.csv", index=False)
     bb_edu.to_csv("bb_edu_commute.csv", index=False)
+

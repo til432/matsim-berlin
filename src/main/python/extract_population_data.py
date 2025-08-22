@@ -45,3 +45,4 @@ if __name__ == "__main__":
 
     activities = create_activities(df, trips, include_person_context=False, cut_groups=False)
     activities.to_csv(args.output + "-activities.csv", index=False)
+

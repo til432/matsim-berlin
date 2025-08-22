@@ -255,3 +255,5 @@ public class CreateNetworkAndKeepCountLinks {
 		throw new RuntimeException( "seems to have broken with update of log4j.  kai, mar'20" );
 	}
 }
+
+

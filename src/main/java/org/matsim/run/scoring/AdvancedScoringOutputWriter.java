@@ -68,3 +68,5 @@ public class AdvancedScoringOutputWriter implements IterationEndsListener {
 		outputWritten = true;
 	}
 }
+
+

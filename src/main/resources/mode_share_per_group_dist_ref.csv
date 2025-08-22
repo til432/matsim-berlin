@@ -1289,3 +1289,5 @@ age,income,economic_status,employment,car_avail,bike_avail,pt_abo_avail,dist_gro
 ,,,,,,unknown,20000+,pt,0.003862007367512052
 ,,,,,,unknown,20000+,ride,0.006800708909865809
 ,,,,,,unknown,20000+,walk,0.00024327485641202528
+
+

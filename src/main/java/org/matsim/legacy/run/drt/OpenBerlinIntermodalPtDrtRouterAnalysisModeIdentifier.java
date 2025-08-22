@@ -126,3 +126,5 @@ public final class OpenBerlinIntermodalPtDrtRouterAnalysisModeIdentifier impleme
 		}
 	}
 }
+
+

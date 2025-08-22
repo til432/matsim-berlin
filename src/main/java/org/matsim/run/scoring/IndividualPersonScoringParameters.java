@@ -376,3 +376,5 @@ public class IndividualPersonScoringParameters implements ScoringParametersForPe
 		}
 	}
 }
+
+
