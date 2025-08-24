@@ -1,1 +1,7 @@
-* text=auto eol=lf
+# Always enforce LF for Java files
+*.java text eol=lf
+
+# Also good for XML, properties, etc.
+*.xml text eol=lf
+*.properties text eol=lf
+*.md text eol=lf
